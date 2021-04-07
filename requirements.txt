@@ -10,3 +10,10 @@ shapely
 numpy
 os
 glob
+requests
+google
+google-api-python-client
+gtfs-realtime-bindings
+folium
+time
+IPython
