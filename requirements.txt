@@ -3,7 +3,6 @@ pysal
 mplleaflet
 geopandas
 pandas
-contextily
 warnings
 shapely
 numpy
