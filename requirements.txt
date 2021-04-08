@@ -4,7 +4,6 @@ IPython
 google-api-python-client
 pysal
 mplleaflet
-folium
 warnings
 requests
 gtfs-realtime-bindings
