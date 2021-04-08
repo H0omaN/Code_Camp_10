@@ -4,7 +4,6 @@ mplleaflet
 geopandas
 pandas
 contextily
-libpysal
 warnings
 shapely
 numpy
