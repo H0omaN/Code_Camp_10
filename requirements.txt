@@ -1,14 +1,2 @@
-matplotlib==3.3.2
-pysal==2.4.0
-mplleaflet==0.0.5
 geopandas==0.9.0
-warnings==3.9.2
-shapely==1.7.1
-numpy
-requests==2.25.1
-google==3.0.0
-google-api-python-client==2.1.0
-gtfs-realtime-bindings==0.0.7
-folium==0.12.1
-time==3.9.4
-IPython==7.22.0
+
