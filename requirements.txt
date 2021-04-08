@@ -3,7 +3,6 @@ google
 IPython
 google-api-python-client
 pysal
-mplleaflet
 warnings
 requests
 gtfs-realtime-bindings
