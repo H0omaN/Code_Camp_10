@@ -1,7 +1,6 @@
 geopandas
 google
 IPython
-google-api-python-client
 warnings
 requests
 gtfs-realtime-bindings
