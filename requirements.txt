@@ -2,11 +2,7 @@ geopandas
 google
 IPython
 google-api-python-client
-pysal
 warnings
 requests
 gtfs-realtime-bindings
 time
-
-
-
